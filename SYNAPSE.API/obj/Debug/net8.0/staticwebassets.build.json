@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "JfRYGu6uMC0mKUYERudJqeUeCB0jqJhdkbPSwkknlPk=",
+  "Source": "SYNAPSE.API",
+  "BasePath": "_content/SYNAPSE.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
